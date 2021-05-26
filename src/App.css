@@ -1,0 +1,51 @@
+.header-top {
+  background: #ccc;
+  padding: 10px 50px;
+}
+.table-section {
+  padding: 50px 0px;
+}
+.statusfilter-div {
+  margin-bottom: 30px;
+}
+.statusfilter-select {
+  display: inline-block;
+  position: relative;  
+}
+.statusfilter-select span {
+  padding: 5px 20px;
+  background: #ccc;
+  border: 1px solid #f1f1f1;
+  width: 150px;
+  display: block;
+}
+.statusfilter-select i {
+  font-weight: 100;
+  font-size: 15px;
+}
+.statusfilter-options {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  background: #fff;
+  box-shadow: 0px 0px 10px #999;
+  padding: 10px 20px;
+  width: 150px;
+  display: none;
+}
+.statusfilter-options p {
+  cursor: pointer;
+  margin: 7px 0px;
+}
+.table-section .table thead th {
+  background: #ccc;
+  color: #444;
+}
+.footer-bottom {
+  background: #ccc;
+  color: #fff;
+  padding: 10px 50px;
+}
+.footer-bottom p {
+  margin-bottom: 0px;
+}
